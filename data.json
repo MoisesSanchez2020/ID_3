@@ -1,0 +1,16 @@
+{
+  "results": [
+    {
+      "id": "1a3f4c",
+      "name": "Ringo",
+      "last_name": "Starr",
+      "address": "123 Main Street, Anytown, USA",
+      "country": "USA",
+      "phone_number": "123-456-7890",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhwfrwrT1pz0NDIL-Euo6KUXvLkTMr-GRSKA&usqp=CAU",
+      "date_of_birth": "1934/04/02",
+      "driver_license": "B123456789",
+      "social_media": "john_doe"
+    }
+  ]
+}
